@@ -29,7 +29,7 @@ body {
 .hero {
   min-height: 100vh;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -65,7 +65,7 @@ body {
   background-color: #fff;
   border-radius: 0.5rem;
   box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-  margin-bottom: 10rem;
+  /* margin-bottom: 10rem; */
   margin-left: 2rem;
 }
 
@@ -79,7 +79,7 @@ body {
   background-color: #e30c2e;
   border-radius: 0.5rem;
   box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-  margin-bottom: 10rem;
+  /* margin-bottom: 10rem; */
 }
 /* Hero Section */
 
